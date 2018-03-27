@@ -1,0 +1,14 @@
+{
+  "name": "launchdarkly-bug-promise-rejection",
+  "version": "1.0.0",
+  "description": "Demo for a bug where LaunchDarkly has unhandled promise rejections",
+  "main": "demo.js",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "author": "James Bunton <jbunton@atlassian.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ldclient-node": "^4.0.2"
+  }
+}
